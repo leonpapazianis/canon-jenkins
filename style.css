@@ -14,8 +14,8 @@ body {
 .logo {
     width: 154px !important;
     height: 34px !important;
-    background-size: 154px 34px;
-    background: url('whlabs_logo.png') no-repeat;
+    background-size: 222px 34px;
+    background: url('whlabs_logo_small.png') no-repeat;
     margin-top: 8px;
     cursor: pointer;
 }
