@@ -12,11 +12,11 @@ body {
 }
 
 .logo {
-    width: 154px !important;
+    width: 240px !important;
     height: 34px !important;
     background-size: 222px 34px;
     background: url('whlabs_logo_small.png') no-repeat;
-    margin-top: 8px;
+    margin-top: 3px;
     cursor: pointer;
 }
 
